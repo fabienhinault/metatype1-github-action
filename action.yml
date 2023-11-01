@@ -1,0 +1,6 @@
+name: 'Metatype1'
+description: 'Run metatype1'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
